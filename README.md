@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ___
 ## Work habits:
 <p align = "center">
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JSDaleman&hide=javascript,HTML,CSS&layout=compact&theme=tokyonight" alt="stats" />
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JSDaleman&hide=javascript,HTML,CSS&layout=compact&theme=tokyonight&bg_color=00000000" alt="stats" />
 <!--
 <br/>
  <img src = "https://github-readme-stats.vercel.app/api?username=JSDaleman&show_icons=true&theme" alt="Sebastian Github Stats" />
