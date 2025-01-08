@@ -1,0 +1,48 @@
+#cabecera{
+    background: radial-gradient(circle, #2C74B3, #205295, #144272, #0A2647);
+    position: relative;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-radius: 2px;
+}
+
+
+.Badge {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 2px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.Badge img{
+    height: 28px;
+    width: auto;
+    padding: 2px;
+}
+
+#programming-lenguages{
+    width: auto;
+}
+
+.Stadistics{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Stadistics img{
+    display: flex;
+    width: 600px;
+    margin: 2px;
+}
+
