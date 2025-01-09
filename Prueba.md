@@ -11,6 +11,8 @@ Usado del https://github.com/dheereshagrwal/colored-icons/tree/master
   href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.8/src/app/ci.min.css"
 />
 
+
+
 <!--
 Inspirado en los github de:
 https://github.com/jsduenass/jsduenass/tree/main
@@ -28,8 +30,13 @@ https://www.youtube.com/watch?v=ECuqb5Tv9qI
 Para escoger paleta de colores:
 https://www.colorhunt.co/palette/0a26471442722052952c74b3
 -->
+<!--
 <div id="banner">
 Juan Sebastian Daleman
+</div>
+-->
+<div align="center">
+<img src="./assets/Juan Sebastian Daleman.png" alt="Banner JSDaleman">
 </div>
 <!-- 
 Para generación de la animación 
