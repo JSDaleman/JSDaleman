@@ -10,65 +10,6 @@ Usado del https://github.com/dheereshagrwal/colored-icons/tree/master
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.8/src/app/ci.min.css"
 />
-<style>
-#banner{
-    background: radial-gradient(circle, #2C74B3, #205295, #144272, #0A2647);
-    position: relative;
-    color: white;
-    font-weight: bold;
-    font-size: 20px;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    border: none;
-    border-radius: 2px;
-}
-#fun-facy{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-}
-#social-media {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 4px;
-    padding: 10px;
-    justify-content: center;
-    align-items: center;
-}
-.Badge {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 2px;
-    padding: 10px;
-    justify-content: center;
-    align-items: center;
-}
-.Badge img{
-    height: 28px;
-    width: auto;
-    padding: 2px;
-}
-#programming-lenguages{
-    width: auto;
-}
-.Stadistics{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-.Stadistics img{
-    display: flex;
-    width: 600px;
-    margin: 2px;
-}
-</style>
 
 <!--
 Inspirado en los github de:
@@ -87,7 +28,8 @@ https://www.youtube.com/watch?v=ECuqb5Tv9qI
 Para escoger paleta de colores:
 https://www.colorhunt.co/palette/0a26471442722052952c74b3
 -->
-<div id="banner">
+<div id="banner" style="background: radial-gradient(circle, #2C74B3, #205295, #144272, #0A2647); position: relative; color: white; font-weight: bold; font-size: 20px;display: flex; flex-direction: row;
+justify-content: center; align-items: center; border: none;border-radius: 2px;">
 Juan Sebastian Daleman
 </div>
 <!-- 
@@ -118,6 +60,7 @@ https://readme-typing-svg.herokuapp.com/demo/?font=Roboto&size=16&color=F7F7F7&c
 
 <div id="social-media">
 
+<!--
 <a href="" target="_blank">
   <i class="ci ci-facebook ci-3x"></i></a>
 <a href="" target="_blank">
@@ -132,6 +75,7 @@ https://readme-typing-svg.herokuapp.com/demo/?font=Roboto&size=16&color=F7F7F7&c
 <a href="" target="_blank">
   <i class="ci ci-youtube ci-3x"></i>
 </a>
+-->
 <a href="https://www.linkedin.com/in/juan-daleman-a89a9071/" target="_blank">
   <i class="ci ci-linkedin ci-3x"></i>
 </a>
