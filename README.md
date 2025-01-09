@@ -1,30 +1,159 @@
+<!-- Estilos generales -->
+<!--
 <link rel="stylesheet" href="./style.css">
-
-
-# Hi there 👋, I am Sebastian
-
-<div id="cabecera">
-    Juan Sebastian Daleman
-</div>
+-->
+<!-- 
+Estilos de los iconos
+Usado del https://github.com/dheereshagrwal/colored-icons/tree/master
+-->
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.8/src/app/ci.min.css"
+/>
+<style>
+#banner{
+    background: radial-gradient(circle, #2C74B3, #205295, #144272, #0A2647);
+    position: relative;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-radius: 2px;
+}
+#fun-facy{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+#social-media {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 4px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.Badge {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 2px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.Badge img{
+    height: 28px;
+    width: auto;
+    padding: 2px;
+}
+#programming-lenguages{
+    width: auto;
+}
+.Stadistics{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Stadistics img{
+    display: flex;
+    width: 600px;
+    margin: 2px;
+}
+</style>
 
 <!--
-**JSDaleman/JSDaleman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Inspirado en los github de:
+https://github.com/jsduenass/jsduenass/tree/main
+https://github.com/cychitivav/cychitivav/tree/main
+https://github.com/lgzarturo/lgzarturo
+https://github.com/suzukimain/suzukimain/tree/main
+https://github.com/AlphaVS-76
+https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#anime-
+Video guia:
+https://www.youtube.com/watch?v=ECuqb5Tv9qI
 -->
+
+# Hi there 👋, I am Sebastian
+<!--
+Para escoger paleta de colores:
+https://www.colorhunt.co/palette/0a26471442722052952c74b3
+-->
+<div id="banner">
+Juan Sebastian Daleman
+</div>
+<!-- 
+Para generación de la animación 
+https://readme-typing-svg.herokuapp.com/demo/?font=Roboto&size=16&color=F7F7F7&center=true&vCenter=true&lines=In+the+stars%2C+we+are+inspired.
+-->
+<div id="fun-fact" align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=In+the+stars%2C+we+are+inspired." alt="Typing SVG" /></a>
+</div>
+
+# 📖About me
+
+<!--
+- 🔭 I’m currently working on ... 
+- 🌱 I’m currently learning ... 
+- 👯 I’m looking to collaborate on ... 
+- 🤔 I’m looking for help with ... 
+- 💬 Ask me about ... 
+- 📫 How to reach me: ... 
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... 
+-->
+- 📚 I'm currently mechatronics engineer student at Universidad Nacional de Colombia 
+- 🌱 I’m currently learning about robotics and IA 
+- 😄 Pronouns: he/him
+
+## 🌐 Connect with me
+
+<div id="social-media">
+
+<a href="" target="_blank">
+  <i class="ci ci-facebook ci-3x"></i></a>
+<a href="" target="_blank">
+  <i class="ci ci-gmail ci-3x"></i>
+</a>
+<a href="" target="_blank">
+  <i class="ci ci-instagram ci-3x"></i>
+</a>
+<a href="" target="_blank">
+  <i class="ci ci-x-light ci-3x"></i>
+</a>
+<a href="" target="_blank">
+  <i class="ci ci-youtube ci-3x"></i>
+</a>
+<a href="https://www.linkedin.com/in/juan-daleman-a89a9071/" target="_blank">
+  <i class="ci ci-linkedin ci-3x"></i>
+</a>
+<a href="https://github.com/JSDaleman" target="_blank">
+  <i class="ci ci-github-light ci-3x"></i>
+</a>
+
+</div>
+
 ## 🖥️ Programming Languages
 
 <div id="programming_lenguages" class="Badge">
-
+<!--
+Para generar las medallas 
+https://shields.io/badges/static-badge
+Iconos para las medallas disponibles
+https://simpleicons.org/?q=HTML
+Para colores en HEX
+https://htmlcolorcodes.com/es/
+Algunos diseños ya realizados de medallas
+https://github.com/alexandresanlim/Badges4-README.md-Profile#-contact-
+-->
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD43B" alt="Python Badge">
 <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=FFFFFF" alt="C++ Badge">
 <img src="https://img.shields.io/badge/MATLAB-E67E22?logo=matlab&logoColor=0072BD" alt="MATLAB Badge">
@@ -87,7 +216,10 @@ Here are some ideas to get you started:
 ## 📊 Work habits
 
 <div id="work_habits" class="Stadistics">
-
+<!--
+Para generar las estadisticas:
+https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file
+-->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSDaleman&layout=compact&theme=tokyonight&hide_border=true" alt="Languages_used">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JSDaleman&theme=tokyonight" />

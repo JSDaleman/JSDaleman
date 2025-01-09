@@ -1,4 +1,4 @@
-#cabecera{
+#banner{
     background: radial-gradient(circle, #2C74B3, #205295, #144272, #0A2647);
     position: relative;
     color: white;
@@ -12,6 +12,23 @@
     border-radius: 2px;
 }
 
+#fun-facy{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+#social-media {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 4px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+}
 
 .Badge {
     display: flex;
