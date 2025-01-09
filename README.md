@@ -28,8 +28,7 @@ https://www.youtube.com/watch?v=ECuqb5Tv9qI
 Para escoger paleta de colores:
 https://www.colorhunt.co/palette/0a26471442722052952c74b3
 -->
-<div id="banner" style="background: radial-gradient(circle, #2C74B3, #205295, #144272, #0A2647); position: relative; color: white; font-weight: bold; font-size: 20px;display: flex; flex-direction: row;
-justify-content: center; align-items: center; border: none;border-radius: 2px;">
+<div id="banner">
 Juan Sebastian Daleman
 </div>
 <!-- 
@@ -87,7 +86,7 @@ https://readme-typing-svg.herokuapp.com/demo/?font=Roboto&size=16&color=F7F7F7&c
 
 ## 🖥️ Programming Languages
 
-<div id="programming_lenguages" class="Badge">
+<div id="programming_lenguages" class="Badge" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 2px; padding: 10px; justify-content: center; align-items: center;">
 <!--
 Para generar las medallas 
 https://shields.io/badges/static-badge
