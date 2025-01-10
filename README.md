@@ -1,15 +1,6 @@
-<!-- Estilos generales -->
-
-<link rel="stylesheet" href="./style.css">
-
 <!-- 
-Estilos de los iconos
-Usado del https://github.com/dheereshagrwal/colored-icons/tree/master
+Iconos del https://github.com/dheereshagrwal/colored-icons/tree/master
 -->
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.8/src/app/ci.min.css"
-/>
 
 <!--
 Inspirado en los github de:
@@ -24,12 +15,9 @@ https://www.youtube.com/watch?v=ECuqb5Tv9qI
 -->
 
 # Hi there 👋, I am Sebastian
-<!--
-Para escoger paleta de colores:
-https://www.colorhunt.co/palette/0a26471442722052952c74b3
--->
-<div id="banner">
-Juan Sebastian Daleman
+
+<div id="banner" align="center">
+<img src="./assets/Juan Sebastian Daleman.png" alt="Banner JSDaleman">
 </div>
 <!-- 
 Para generación de la animación 
@@ -57,36 +45,35 @@ https://readme-typing-svg.herokuapp.com/demo/?font=Roboto&size=16&color=F7F7F7&c
 
 ## 🌐 Connect with me
 
-<div id="social-media">
+<div id="social-media" align="center">
 
-<!--
 <a href="" target="_blank">
-  <i class="ci ci-facebook ci-3x"></i></a>
-<a href="" target="_blank">
-  <i class="ci ci-gmail ci-3x"></i>
+    <img src="./assets/facebook.svg" alt="Facebook" width="50px">
 </a>
 <a href="" target="_blank">
-  <i class="ci ci-instagram ci-3x"></i>
+    <img src="./assets/gmail.svg" alt="Gmail" width="50px">
 </a>
 <a href="" target="_blank">
-  <i class="ci ci-x-light ci-3x"></i>
+    <img src="./assets/instagram.svg" alt="Gmail" width="50px">
 </a>
 <a href="" target="_blank">
-  <i class="ci ci-youtube ci-3x"></i>
+    <img src="./assets/x-light.svg" alt="X" width="50px">
 </a>
--->
+<a href="" target="_blank">
+    <img src="./assets/youtube.svg" alt="X" width="50px">
+</a>
 <a href="https://www.linkedin.com/in/juan-daleman-a89a9071/" target="_blank">
-  <i class="ci ci-linkedin ci-3x"></i>
+  <img src="./assets/linkedin.svg" alt="Linkedin" width="50px">
 </a>
 <a href="https://github.com/JSDaleman" target="_blank">
-  <i class="ci ci-github-light ci-3x"></i>
+    <img src="./assets/github-light.svg" alt="github" width="50px">
 </a>
 
 </div>
 
 ## 🖥️ Programming Languages
 
-<div id="programming_lenguages" class="Badge" >
+<div id="programming_lenguages" class="Badge" align="center">
 <!--
 Para generar las medallas 
 https://shields.io/badges/static-badge
@@ -97,78 +84,77 @@ https://htmlcolorcodes.com/es/
 Algunos diseños ya realizados de medallas
 https://github.com/alexandresanlim/Badges4-README.md-Profile#-contact-
 -->
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD43B" alt="Python Badge">
-<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=FFFFFF" alt="C++ Badge">
-<img src="https://img.shields.io/badge/MATLAB-E67E22?logo=matlab&logoColor=0072BD" alt="MATLAB Badge">
-<img src="https://img.shields.io/badge/Java-5382A1?logo=openjdk&logoColor=FFFFFF" alt="JAVA Badge">
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5 Badge">
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3 Badge">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge">
-<img src="https://img.shields.io/badge/LaTeX-008000?logo=latex&logoColor=white" alt="LaTeX Badge">
-<img src="https://img.shields.io/badge/C-A8B900?logo=c&logoColor=white" alt="C Badge">
-<img src="https://img.shields.io/badge/Assembly-FFB800?logo=code&logoColor=white" alt="Assembly Badge">
-<img src="https://img.shields.io/badge/Ladder%20Logic-008080?logo=electrical-engineering&logoColor=white" alt="Ladder Logic Badge">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD43B" alt="Python Badge" height="28px">
+<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=FFFFFF" alt="C++ Badge"  height="28px">
+<img src="https://img.shields.io/badge/MATLAB-E67E22?logo=matlab&logoColor=0072BD" alt="MATLAB Badge"  height="28px">
+<img src="https://img.shields.io/badge/Java-5382A1?logo=openjdk&logoColor=FFFFFF" alt="JAVA Badge"  height="28px">
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5 Badge"  height="28px">
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3 Badge"  height="28px">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge"  height="28px">
+<img src="https://img.shields.io/badge/LaTeX-008000?logo=latex&logoColor=white" alt="LaTeX Badge"  height="28px">
+<img src="https://img.shields.io/badge/C-A8B900?logo=c&logoColor=white" alt="C Badge"  height="28px">
+<img src="https://img.shields.io/badge/Assembly-FFB800?logo=code&logoColor=white" alt="Assembly Badge"  height="28px">
+<img src="https://img.shields.io/badge/Ladder%20Logic-008080?logo=electrical-engineering&logoColor=white" alt="Ladder Logic Badge"  height="28px">
 
 </div>
 
 
 ## 📐 Software CAD
 
-<div id="software_cad" class="Badge">
+<div id="software_cad" class="Badge" align="center">
 
-<img src="https://img.shields.io/badge/AutoCAD-E51050?logo=autocad&logoColor=white" alt="AutoCAD Badge">
-<img src="https://img.shields.io/badge/Inventor-FAA21B?logo=autodesk&logoColor=white" alt="Inventor Badge">
-<img src="https://img.shields.io/badge/LTSpice-800020" alt="LTSpice Badge">
-<img src="https://img.shields.io/badge/Proteus-0078D7?logo=circuit-board&logoColor=white" alt="Proteus Badge">
-<img src="https://img.shields.io/badge/KiCad-314CB6?logo=kicad&logoColor=white" alt="KiCad Badge">
+<img src="https://img.shields.io/badge/Inventor-FAA21B?logo=autodesk&logoColor=white" alt="Inventor Badge"  height="28px">
+<img src="https://img.shields.io/badge/LTSpice-800020" alt="LTSpice Badge"  height="28px">
+<img src="https://img.shields.io/badge/Proteus-0078D7?logo=circuit-board&logoColor=white" alt="Proteus Badge"  height="28px">
+<img src="https://img.shields.io/badge/KiCad-314CB6?logo=kicad&logoColor=white" alt="KiCad Badge"  height="28px">
 
 </div>
 
 ## ⚙️ Prototyping
 
-<div id="prototyping" class="Badge">
+<div id="prototyping" class="Badge" align="center">
 
-<img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" alt="Arduino Badge">
+<img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" alt="Arduino Badge" height="28px">
 
 </div>
 
 ## 🦾 Robotics
 
-<div id="robotics" class="Badge">
+<div id="robotics" class="Badge" align="center">
 
-<img src="https://img.shields.io/badge/Robot%20Studio-FF0000?logo=abbrobotstudio&logoColor=white" alt="Robot Studio Badge">
-<img src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white" alt="ROS Badge">
-<img src="https://img.shields.io/badge/Robotics%20Toolbox-007ACC?logo=mathworks&logoColor=white">
-<img src="https://img.shields.io/badge/LEGO%20Mindstorms%20EV3-FF0000?logo=lego&logoColor=white" alt="LEGO Mindstorms EV3 Badge">
+<img src="https://img.shields.io/badge/Robot%20Studio-FF0000?logo=abbrobotstudio&logoColor=white" alt="Robot Studio Badge" height="28px">
+<img src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white" alt="ROS Badge" height="28px">
+<img src="https://img.shields.io/badge/Robotics%20Toolbox-007ACC?logo=mathworks&logoColor=white" height="28px">
+<img src="https://img.shields.io/badge/LEGO%20Mindstorms%20EV3-FF0000?logo=lego&logoColor=white" alt="LEGO Mindstorms EV3 Badge" height="28px">
 
 
 </div>
 
 ## 👨‍💻Integrated Development Environment (IDE)
 
-<div id="ide" class="Badge">
+<div id="ide" class="Badge" align="center">
 
-<img src="https://img.shields.io/badge/Studio%205000-2C3E50?logo=automation&logoColor=white" alt="Studio 5000 Badge">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" alt="Visual Studio Code Badge">
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android&logoColor=white" alt="Android Studio Badge">
-<img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white" alt="Eclipse Badge">
-<img src="https://img.shields.io/badge/Arduino%20IDE-00979D?logo=arduino&logoColor=white" alt="Arduino IDE Badge">
+<img src="https://img.shields.io/badge/Studio%205000-2C3E50?logo=automation&logoColor=white" alt="Studio 5000 Badge" height="28px">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" alt="Visual Studio Code Badge" height="28px">
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android&logoColor=white" alt="Android Studio Badge" height="28px">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white" alt="Eclipse Badge" height="28px">
+<img src="https://img.shields.io/badge/Arduino%20IDE-00979D?logo=arduino&logoColor=white" alt="Arduino IDE Badge" height="28px">
 
 </div>
 
 ## 📊 Work habits
 
-<div id="work_habits" class="Stadistics">
+<div id="work_habits" class="Stadistics" align="center">
 <!--
 Para generar las estadisticas:
 https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file
 -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSDaleman&layout=compact&theme=tokyonight&hide_border=true" alt="Languages_used">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JSDaleman&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api?username=JSDaleman&rank_icon=github&show_icons=true&theme=tokyonight&hide_border=true" alt="JSDaleman_stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSDaleman&layout=compact&theme=tokyonight&hide_border=true" alt="Languages_used" width="300px">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JSDaleman&theme=tokyonight" alt="JSDaleman_summary_cards"  width="600px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JSDaleman&rank_icon=github&show_icons=true&theme=tokyonight&hide_border=true" alt="JSDaleman_stats" width="600px">
 <!--
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JSDaleman&theme=tokyonight&hide_border=true" alt="JSDaleman_streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JSDaleman&theme=tokyonight&hide_border=true" alt="JSDaleman_streak" width="600px">
 -->
-<img src="https://github-contributor-stats.vercel.app/api?username=JSDaleman&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="Top_Contributed_Repo">
+<img src="https://github-contributor-stats.vercel.app/api?username=JSDaleman&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="Top_Contributed_Repo" width="600px">
 </div>
