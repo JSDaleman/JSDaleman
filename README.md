@@ -46,7 +46,7 @@ https://readme-typing-svg.herokuapp.com/demo/?font=Roboto&size=16&color=F7F7F7&c
 ## 🌐 Connect with me
 
 <div id="social-media" align="center">
-
+<!--
 <a href="" target="_blank">
     <img src="./assets/facebook.svg" alt="Facebook" width="50px">
 </a>
@@ -62,6 +62,7 @@ https://readme-typing-svg.herokuapp.com/demo/?font=Roboto&size=16&color=F7F7F7&c
 <a href="" target="_blank">
     <img src="./assets/youtube.svg" alt="X" width="50px">
 </a>
+-->
 <a href="https://www.linkedin.com/in/juan-daleman-a89a9071/" target="_blank">
   <img src="./assets/linkedin.svg" alt="Linkedin" width="50px">
 </a>
@@ -150,11 +151,11 @@ Para generar las estadisticas:
 https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file
 -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSDaleman&layout=compact&theme=tokyonight&hide_border=true" alt="Languages_used" width="300px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSDaleman&layout=compact&theme=tokyonight&hide_border=true" alt="Languages_used" width="200px">
+<img src="https://github-readme-stats.vercel.app/api?username=JSDaleman&rank_icon=github&show_icons=true&theme=tokyonight&hide_border=true" alt="JSDaleman_stats" width="200px">
+<img src="https://github-contributor-stats.vercel.app/api?username=JSDaleman&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="Top_Contributed_Repo" width="200px">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JSDaleman&theme=tokyonight" alt="JSDaleman_summary_cards"  width="600px"/>
-<img src="https://github-readme-stats.vercel.app/api?username=JSDaleman&rank_icon=github&show_icons=true&theme=tokyonight&hide_border=true" alt="JSDaleman_stats" width="300px">
 <!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JSDaleman&theme=tokyonight&hide_border=true" alt="JSDaleman_streak" width="600px">
 -->
-<img src="https://github-contributor-stats.vercel.app/api?username=JSDaleman&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="Top_Contributed_Repo" width="300px">
 </div>
