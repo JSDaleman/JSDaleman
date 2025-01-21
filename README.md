@@ -96,7 +96,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile#-contact-
 <img src="https://img.shields.io/badge/C-A8B900?logo=c&logoColor=white" alt="C Badge"  height="28px">
 <img src="https://img.shields.io/badge/Assembly-FFB800?logo=code&logoColor=white" alt="Assembly Badge"  height="28px">
 <img src="https://img.shields.io/badge/Ladder%20Logic-008080?logo=electrical-engineering&logoColor=white" alt="Ladder Logic Badge"  height="28px">
-<img src="https://img.shields.io/badge/AutoLISP-D40808?logo=data:image/svg+xml;base64,<svg_data>&logoColor=white" alt="AutoLISP Badge" height="28px">
+<img src="https://img.shields.io/badge/AutoLISP-D40808?logo=Mechanical-engineering&logoColor=white" alt="AutoLISP Badge" height="28px">
 
 </div>
 
