@@ -96,6 +96,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile#-contact-
 <img src="https://img.shields.io/badge/C-A8B900?logo=c&logoColor=white" alt="C Badge"  height="28px">
 <img src="https://img.shields.io/badge/Assembly-FFB800?logo=code&logoColor=white" alt="Assembly Badge"  height="28px">
 <img src="https://img.shields.io/badge/Ladder%20Logic-008080?logo=electrical-engineering&logoColor=white" alt="Ladder Logic Badge"  height="28px">
+<img src="https://img.shields.io/badge/AutoLISP-D40808?logo=data:image/svg+xml;base64,<svg_data>&logoColor=white" alt="AutoLISP Badge" height="28px">
 
 </div>
 
@@ -104,6 +105,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile#-contact-
 
 <div id="software_cad" class="Badge" align="center">
 
+<img src="https://img.shields.io/badge/Autocad-E51050?logo=autocad&logoColor=white" alt="Inventor Badge"  height="28px">
 <img src="https://img.shields.io/badge/Inventor-FAA21B?logo=autodesk&logoColor=white" alt="Inventor Badge"  height="28px">
 <img src="https://img.shields.io/badge/LTSpice-800020" alt="LTSpice Badge"  height="28px">
 <img src="https://img.shields.io/badge/Proteus-0078D7?logo=circuit-board&logoColor=white" alt="Proteus Badge"  height="28px">
