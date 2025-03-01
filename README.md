@@ -24,7 +24,13 @@ Para generación de la animación
 https://readme-typing-svg.herokuapp.com/demo/?font=Roboto&size=16&color=F7F7F7&center=true&vCenter=true&lines=In+the+stars%2C+we+are+inspired.
 -->
 <div id="fun-fact" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=In+the+stars%2C+we+are+inspired." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=In+the+stars%2C+we+are+inspired." media="(prefers-color-scheme: dark)">
+    <source srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=In+the+stars%2C+we+are+inspired." media="(prefers-color-scheme: light)">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=In+the+stars%2C+we+are+inspired." alt="Typing SVG">
+  </picture>
+</a>
 </div>
 
 # 📖About me
@@ -57,7 +63,8 @@ https://readme-typing-svg.herokuapp.com/demo/?font=Roboto&size=16&color=F7F7F7&c
     <img src="./assets/instagram.svg" alt="Gmail" width="50px">
 </a>
 <a href="" target="_blank">
-    <img src="./assets/x-light.svg" alt="X" width="50px">
+    <img src="./assets/x-light.svg#gh-dark-mode-only" alt="X" width="50px">
+    <img src="./assets/x.svg#gh-light-mode-only" alt="X" width="50px">
 </a>
 <a href="" target="_blank">
     <img src="./assets/youtube.svg" alt="X" width="50px">
@@ -66,8 +73,12 @@ https://readme-typing-svg.herokuapp.com/demo/?font=Roboto&size=16&color=F7F7F7&c
 <a href="https://www.linkedin.com/in/juan-daleman-a89a9071/" target="_blank">
   <img src="./assets/linkedin.svg" alt="Linkedin" width="50px">
 </a>
-<a href="https://github.com/JSDaleman" target="_blank">
-    <img src="./assets/github-light.svg" alt="github" width="50px">
+<a href="https://github.com/JSDaleman">
+  <picture>
+    <source srcset="./assets/github-light.svg" media="(prefers-color-scheme: dark)">
+    <source srcset="./assets/github.svg" media="(prefers-color-scheme: light)">
+    <img src="./assets/github-light.svg" alt="GitHub" width="50px">
+  </picture>
 </a>
 
 </div>
@@ -153,10 +164,36 @@ Para generar las estadisticas:
 https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file
 -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSDaleman&layout=compact&theme=tokyonight&hide_border=true" alt="Languages_used" width="300px">
-<img src="https://github-readme-stats.vercel.app/api?username=JSDaleman&rank_icon=github&show_icons=true&theme=tokyonight&hide_border=true" alt="JSDaleman_stats" width="300px">
-<img src="https://github-contributor-stats.vercel.app/api?username=JSDaleman&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="Top_Contributed_Repo" width="300px">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JSDaleman&theme=tokyonight" alt="JSDaleman_summary_cards"  width="600px"/>
+<!-- Lenguajes más usados -->
+<picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JSDaleman&layout=compact&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)">
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JSDaleman&layout=compact&theme=default&hide_border=true" media="(prefers-color-scheme: light)">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSDaleman&layout=compact&theme=default&hide_border=true" alt="Lenguajes más usados" width="300px">
+</picture>
+
+<!-- Estadísticas generales -->
+<picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=JSDaleman&rank_icon=github&show_icons=true&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)">
+    <source srcset="https://github-readme-stats.vercel.app/api?username=JSDaleman&rank_icon=github&show_icons=true&theme=default&hide_border=true" media="(prefers-color-scheme: light)">
+    <img src="https://github-readme-stats.vercel.app/api?username=JSDaleman&rank_icon=github&show_icons=true&theme=default&hide_border=true" alt="Estadísticas Generales" width="300px">
+</picture>
+
+<!-- Repositorios más contribuidos -->
+<picture>
+    <source srcset="https://github-contributor-stats.vercel.app/api?username=JSDaleman&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" media="(prefers-color-scheme: dark)">
+    <source srcset="https://github-contributor-stats.vercel.app/api?username=JSDaleman&limit=5&theme=default&hide_border=true&combine_all_yearly_contributions=true" media="(prefers-color-scheme: light)">
+    <img src="https://github-contributor-stats.vercel.app/api?username=JSDaleman&limit=5&theme=default&hide_border=true&combine_all_yearly_contributions=true" alt="Repositorios Más Contribuidos" width="300px">
+</picture>
+
+<!-- Resumen del perfil -->
+<picture>
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JSDaleman&theme=tokyonight" media="(prefers-color-scheme: dark)">
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JSDaleman&theme=default" edia="(prefers-color-scheme: light)">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JSDaleman&theme=default" alt="Resumen del Perfil" width="600px">
+</picture>
+
+
+<!-- Streak stats-->
 <!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JSDaleman&theme=tokyonight&hide_border=true" alt="JSDaleman_streak" width="600px">
 -->
